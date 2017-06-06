@@ -1,0 +1,30 @@
+<REQUEST OBJECT_CLASS="TMoneyOrderObject"
+          ACTION="Check"
+          POINT_CODE="TZEV"
+          USER_ID="1993"
+          INT_SOFT_ID="7CA91CC3-284E-413A-9D41-EDA287583AB3"
+          SERVER_IP="196.168.1.52"
+          CLIENT_IP="196.168.1.52">
+  <trnDate>20100630</trnDate>
+  <trnCurrency>USD</trnCurrency>
+  <trnAmount>500.00</trnAmount>
+  <trnSendPoint>TZEV</trnSendPoint>
+  <trnPickupPoint>XBLE</trnPickupPoint>
+  <trnService>2</trnService>
+  <trnAdditionalInfo>qqq</trnAdditionalInfo>
+  <sResident>0</sResident>
+  <sName>ИВАНОВ</sName>
+  <sLastName>ИВАН</sLastName>
+  <sBirthday>19900101</sBirthday>
+  <sCountry>BY</sCountry>
+  <sCity>МОСКВА</sCity>
+  <sAddress>МИНСК</sAddress>
+  <sIDtype>Паспорт гражданина СССР</sIDtype>
+  <sIDnumber>123456789</sIDnumber>
+  <sIDdate>20000113</sIDdate>
+  <sIDwhom>РОВД</sIDwhom>
+  <bName>ПЕТРОВ</bName>
+  <bLastName>ПЕТР</bLastName>
+  <bIDexpireDate />
+  <bResident />
+</REQUEST>
